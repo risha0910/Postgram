@@ -5,6 +5,15 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image:linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+  
+  background-repeat: no-repeat;
+ background-color: rgb(255, 255, 255)
+  
+}
+.App{
+  font-family: cursive;
+
 }
 
 code {
